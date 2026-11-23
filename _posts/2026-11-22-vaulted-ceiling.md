@@ -32,7 +32,7 @@ author: "은정"
 
 이리하여 천장을 높이는 공사를 진행했고, 제발 구조 결함 없이 튼튼하게 집이 잘 서있길 바란다.
 
-![vaulted ceiling rough sketch](/images/vauledCeilingPossibility.JPG)
+![vaulted ceiling rough sketch](/images/vaultedCeilingRoughSketch.JPG)
 
 *볼티드 실링 구조 변경 스케치*
 

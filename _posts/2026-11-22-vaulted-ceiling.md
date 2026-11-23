@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "High or Low Ceiling"
+title: "피아노방 천장 높이기"
 author: "은정"
 ---
 

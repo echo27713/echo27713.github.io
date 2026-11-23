@@ -38,5 +38,5 @@ author: "은정"
 ![living room before](/images/livingRm_before.JPG)
 *피아노방 이전 모습*
 
-![living room after](/images/llivingRm_after.JPG)
+![living room after](/images/livingRm_after.JPG)
 *피아노방 천장 높인 모습*

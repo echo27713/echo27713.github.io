@@ -43,13 +43,3 @@ author: "은정"
 ![living room after](/images/livingRm_after.JPG)
 
 *피아노방 천장 높인 모습*
-
-
-![vaulted ceiling rough sketch](/images/vaultedCeilingPossibility.JPG)
-*볼티드 실링 구조 변경 스케치*
-
-![living room before](/images/livingRm_before.JPG)
-*피아노방 이전 모습*
-
-![living room after](/images/livingRm_after.JPG)
-*피아노방 천장 높인 모습*

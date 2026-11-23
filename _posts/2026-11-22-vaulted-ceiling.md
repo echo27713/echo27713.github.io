@@ -31,3 +31,12 @@ author: "은정"
 오늘의 교훈: 천장을 높이고 싶을 때는 아키텍트와 컨트랙터에게 물어봐도 확실한 답을 듣기 어렵다. 스트럭처 엔지니어에게 물어보자.
 
 이리하여 천장을 높이는 공사를 진행했고, 제발 구조 결함 없이 튼튼하게 집이 잘 서있길 바란다.
+
+![vaulted ceiling rough sketch](/images/vaultedCeilingPossibility.JPG]
+*볼티드 실링 구조 변경 스케치*
+
+![living room before](/images/livingRm_before.JPG)
+*피아노방 이전 모습*
+
+![living room after](/images/llivingRm_after.JPG)
+*피아노방 천장 높인 모습*

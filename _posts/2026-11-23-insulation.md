@@ -51,10 +51,10 @@ author: 은정
 추천하는 인술레이션 컴퍼니 정보: [insultechs.com](https://insultechs.com)
 
 *인술레이션 시공 전 사진: 부실한 단열재가 들어있던 상태*
-![insulation before](/images/insulation_before.JPG)
+![insulation before](/images/insulation_before2.JPG)
 
 *인술레이션 시공 후 사진: 치밀한 미네랄울을 벽에 넣고, 볼티드 천장 덱쪽은 스프레이폼, 애틱이 있는 쪽은 파이버글래스 단열재 시공*
-![insulation after](/images/insulation_after.JPG)
+![insulation after](/images/insulation_after2.JPG)
 
 
 
